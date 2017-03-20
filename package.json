@@ -1,0 +1,23 @@
+{
+  "name": "simpy-hls",
+  "version": "0.0.1",
+  "description": "Simple nodejs HLS implementation with ffmpeg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-sh/simpy-hls.git"
+  },
+  "keywords": [
+    "HLS",
+    "ffmpeg"
+  ],
+  "author": "Alexey Sh.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexey-sh/simpy-hls/issues"
+  },
+  "homepage": "https://github.com/alexey-sh/simpy-hls#readme"
+}
